@@ -6,7 +6,7 @@ Welcome to **Ayush Cafe** – a simple Python-based terminal application that si
 
 ---
 
-## 📋 Project Description
+## 📋 Project Description - 
 
 The **Cafe Management System** allows a user to:
 
@@ -18,9 +18,24 @@ The **Cafe Management System** allows a user to:
 
 It’s a fun mini-project made using **pure Python** and designed for learning and practicing logic building.
 
+🛠️ Tech Used - 
+
+Python 3
+Terminal/Command Line
+
+---
+Sample menu - 
+
+pizza     : ₹149
+burger    : ₹99
+coffee    : ₹40
+tea       : ₹15
+sandwich  : ₹70
+pasta     : ₹120
+
 ---
 
-## 💡 Features
+## 💡 Features - 
 
 - 🧾 Simple food ordering system.
 - 📦 Menu stored using Python dictionaries.
@@ -29,6 +44,17 @@ It’s a fun mini-project made using **pure Python** and designed for learning a
 - 🧠 Beginner-friendly logic and structure.
 
 ---
+
+🧠 Learning Outcomes - 
+How to use dictionaries in Python
+
+Taking and processing user input
+
+Conditional logic (if-else)
+
+Basic arithmetic operations
+
+Structuring mini-projects
 
 ## 🚀 How to Run
 
